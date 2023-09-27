@@ -7,7 +7,7 @@
         <Version>0.1.0.0</Version>
         <RootNamespace />
         <PackageId>Sorling.SqlSessionRunner</PackageId>
-        <PackageIcon>NugetLogo.png</PackageIcon>
+        <PackageIcon>..\NugetLogo.png</PackageIcon>
         <PackageTags>Sql Server Multi Tenant</PackageTags>
         <Authors>jsorling</Authors>
         <Company>Sorling Systems</Company>
