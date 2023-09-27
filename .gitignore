@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/.vs
+/src/multiOrgWeb/obj
+/src/sqlSessionRunner/obj
+/src/multiOrgWeb/bin
+/src/sqlSessionRunner/bin
+/src/sqlSessionRunnerTests/bin
+/src/sqlSessionRunnerTests/obj
